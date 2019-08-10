@@ -1,4 +1,6 @@
-//BrowserSync Config
+// BrowserSync Config
+// This configuration tells lite - server to expose all the files in the src and build / contracts directories to the root of our web server.
+// It also adds an alias for any files in the node_modules directory to appear in the vendor route.
 {
     "server": {
         "baseDir": [
